@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\AI_vTuber.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|solutionrelative:AI_vTuber.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|solutionrelative:TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\test_suno.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|solutionrelative:test_suno.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\test_gtts.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|solutionrelative:test_gtts.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\TextFile1.txt",
+              "RelativeDocumentMoniker": "TextFile1.txt",
+              "ToolTip": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\TextFile1.txt",
+              "RelativeToolTip": "TextFile1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-21T02:34:22.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test_gtts.py",
+              "DocumentMoniker": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\test_gtts.py",
+              "RelativeDocumentMoniker": "test_gtts.py",
+              "ToolTip": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\test_gtts.py",
+              "RelativeToolTip": "test_gtts.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-20T02:27:45.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test_suno.py",
+              "DocumentMoniker": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\test_suno.py",
+              "RelativeDocumentMoniker": "test_suno.py",
+              "ToolTip": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\test_suno.py",
+              "RelativeToolTip": "test_suno.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-19T22:05:25.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-19T04:28:34.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AI_vTuber.py",
+              "DocumentMoniker": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\AI_vTuber.py",
+              "RelativeDocumentMoniker": "AI_vTuber.py",
+              "ToolTip": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\AI_vTuber.py",
+              "RelativeToolTip": "AI_vTuber.py",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAQwH0AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-13T22:11:40.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

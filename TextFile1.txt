@@ -1,0 +1,37 @@
+clock = pygame.time.Clock()
+running = True
+while(running):
+    
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+
+    #console, ask for input
+    question = input("You: ")
+    
+    if(question.strip() == ''):
+        break
+   
+
+    #print out emotions and response
+    response = chat.send_message(question)
+    print('\n')
+    print(f"JSON: {response.text}")
+    print('\n')
+    emotion_got = get_emotion(response.text)
+    display_image(emotion_got)
+    print('\n')
+    output_response = get_response(response.text)
+    print('\n')
+    #speak(output_response)
+    
+    pygame.init()
+    screen = pygame.display.set_mode((window_width, window_heigth))
+        #display image and bg
+    screen.fill(background_color)
+    pygame.display.set_caption("Image Display")
+        # Draw image on screen at calculated center coordinates
+    screen.blit(image, (center_x, center_y))
+    # Update the display
+    pygame.display.update()
+    
