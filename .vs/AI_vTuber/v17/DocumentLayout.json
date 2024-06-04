@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|solutionrelative:AI_vTuber.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\testtwitchchatbot.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|solutionrelative:testtwitchchatbot.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|solutionrelative:TextFile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\main.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\test_suno.py||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -19,8 +31,8 @@
       "RelativeMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|solutionrelative:test_gtts.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{633DF885-DA2A-44FF-9BC1-17892F619808}|AI_vTuber.pyproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\osu_parser.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:osu_parser.py||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +42,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "testtwitchchatbot.py",
+              "DocumentMoniker": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\testtwitchchatbot.py",
+              "RelativeDocumentMoniker": "testtwitchchatbot.py",
+              "ToolTip": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\testtwitchchatbot.py",
+              "RelativeToolTip": "testtwitchchatbot.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-06-03T12:31:38.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "osu_parser.py",
+              "DocumentMoniker": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\osu_parser.py",
+              "RelativeDocumentMoniker": "osu_parser.py",
+              "ToolTip": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\osu_parser.py",
+              "RelativeToolTip": "osu_parser.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-30T18:54:25.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.py",
+              "DocumentMoniker": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\main.py",
+              "RelativeDocumentMoniker": "main.py",
+              "ToolTip": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\main.py",
+              "RelativeToolTip": "main.py",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-05-30T18:54:01.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TextFile1.txt",
               "DocumentMoniker": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\TextFile1.txt",
               "RelativeDocumentMoniker": "TextFile1.txt",
@@ -46,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "test_gtts.py",
               "DocumentMoniker": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\test_gtts.py",
               "RelativeDocumentMoniker": "test_gtts.py",
@@ -58,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "test_suno.py",
               "DocumentMoniker": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\test_suno.py",
               "RelativeDocumentMoniker": "test_suno.py",
@@ -70,13 +118,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\.env",
               "RelativeDocumentMoniker": ".env",
               "ToolTip": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\.env",
               "RelativeToolTip": ".env",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-05-19T04:28:34.295Z"
             },
@@ -88,9 +136,9 @@
               "RelativeDocumentMoniker": "AI_vTuber.py",
               "ToolTip": "C:\\Users\\lowda\\Documents\\PythonProjects\\AI_vTuber\\AI_vTuber\\AI_vTuber.py",
               "RelativeToolTip": "AI_vTuber.py",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAQwH0AAABoAAAA",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAAwIoAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
-              "WhenOpened": "2024-05-13T22:11:40.43Z",
+              "WhenOpened": "2024-06-03T14:12:50.692Z",
               "EditorCaption": ""
             }
           ]

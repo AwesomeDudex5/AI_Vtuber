@@ -23,6 +23,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="AI_vTuber.py" />
+    <Compile Include="testtwitchchatbot.py" />
     <Compile Include="test_gtts.py" />
     <Compile Include="test_suno.py" />
   </ItemGroup>
