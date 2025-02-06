@@ -18,34 +18,47 @@ def process_message(username, content):
     speak(output_response)
 
 # Twitch bot class
+# Define a custom Bot class that inherits from Twitchio's commands.Bot
 class Bot(commands.Bot):
 
+    # Constructor to initialize the bot with token, client ID, nickname, prefix, and channels
     def __init__(self, token, client_id, nick, prefix, initial_channels, message_callback):
         print("Initializing Bot")
+        # Call the parent class's constructor to initialize the bot
         super().__init__(token=token, client_id=client_id, nick=nick, prefix=prefix, initial_channels=initial_channels)
+        # Save the message callback function and initialize an empty list for messages
         self.message_callback = message_callback
         self.messages = []
         print("Bot Initialized")
 
+    # Event that is called when the bot successfully connects to Twitch
     async def event_ready(self):
         print(f'Logged in as | {self.nick}')
         print(f'User id is | {self.user_id}')
 
+    # Event handler for receiving messages from Twitch chat
     async def event_message(self, message):
+        # Ignore messages that are echoes (sent by the bot itself)
         if message.echo:
             return
+        # Print the message content and store it in the messages list
         print(f'{message.author.name}: {message.content}')
         self.messages.append((message.author.name, message.content))
+        # Handle any commands in the message
         await self.handle_commands(message)
 
+    # Function to get all received messages and clear the message buffer
     def get_messages(self):
-        messages = self.messages.copy()
-        self.messages.clear()
+        messages = self.messages.copy()  # Return a copy of the messages list
+        self.messages.clear()  # Clear the stored messages
         return messages
 
+    # Command handler for a custom command "!hello"
     @commands.command(name='hello')
     async def my_command(self, ctx):
+        # Send a reply in Twitch chat when the command is triggered
         await ctx.send(f'Hello {ctx.author.name}!')
+
 
 # Code to use Edge-tts to speak
 def speak(data):
